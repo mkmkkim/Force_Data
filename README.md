@@ -1,2 +1,1 @@
-# Force_Data
-Do not use the excel datas.
+# 발표 ppt가 메인자료
