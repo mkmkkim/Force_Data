@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Force%20Datat&fontSize=40&)</br>
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Force%20Data&fontSize=40&)</br>
 * 활동: 전남대학교 플랜트공학전공 교수님의 연구 과제 참여하여 도식화 자동화로 업무 리소스 90%이상 단축</br>
 * 프로젝트 기간: 2020.09~12</br>
 * 주제: 피험자 100명에 대해 신체 부위 별로 힘을 가하고 어느 정도 힘에서 통증을 느끼는지 기록한 데이터(이하 Force Data)를 분석하여 가상의 피험자 1,000명의 Force Data를 생성</br>
